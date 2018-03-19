@@ -13,5 +13,5 @@ The db can be viewed on My JSON server at this URL: https://my-json-server.typic
 
 To run the app:
 * clone this repo
-* go into the project folder and run the js file ('node csv-generator.js')
+* go into the project folder and run the js file (`node csv-generator.js`)
 * An Events.csv file will be written in the project folder with the above itemized events.
